@@ -1,8 +1,2 @@
 server:
   port: 0
-spring.h2.console.enabled: true
-spring:
-  jpa:
-    hibernate:
-      ddl-auto: none
-custom.property.value: 8
